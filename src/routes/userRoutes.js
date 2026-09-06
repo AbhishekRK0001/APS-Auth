@@ -5,7 +5,7 @@ const authMiddleware = require("../middlewares/authMiddleware");
 const rbacMiddleware = require("../middlewares/rbacMiddleware");
 const classScopeCheck = require("../middlewares/scopeMiddleware");
 
-const { createUser } = require("../controllers/userController");
+const { createUser } = require("../controllers/userController");  
 
 router.post(
   "/create",

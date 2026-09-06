@@ -12,4 +12,4 @@ const rbacMiddleware = (allowedRoles = []) => {
   };
 };
 
-module.exports = rbacMiddleware;
+module.exports = rbacMiddleware; 

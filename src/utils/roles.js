@@ -9,3 +9,4 @@ const ROLE_HIERARCHY = {
 };
 
 module.exports = ROLE_HIERARCHY;
+
